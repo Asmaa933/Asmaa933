@@ -15,7 +15,7 @@
  </p>
   
 <h2>⚡️ A Few Quick Facts</h2>
-<img align="right" src="https://user-images.githubusercontent.com/44899782/130889629-d5cf1b63-1cf8-4da6-9f72-be4ae9e468e2.jpeg" height = 180 width =200/>
+<img align="right" src="https://user-images.githubusercontent.com/44899782/130889629-d5cf1b63-1cf8-4da6-9f72-be4ae9e468e2.jpeg" height = 170 width =200/>
 <ul>
 <li> 🔭 I’m currently developing iOS Applications.</li>
 <li> 🌱 I’m currently learning Swift.</li>
