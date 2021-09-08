@@ -7,7 +7,7 @@
 <a href="https://twitter.com/esma_tarek" target="_blank"><img alt="Twitter" src="https://image.flaticon.com/icons/png/512/145/145812.png" height =40 width =40/></a>
 <a href="https://www.linkedin.com/in/asmaa-tarek/" target="_blank"> <img alt="LinkedIn" src="https://image.flaticon.com/icons/png/512/145/145807.png" width = 40 height = 40 /> </a> 
  <a href="https://stackoverflow.com/users/12349249/asmaa-tarek"> <img src="https://user-images.githubusercontent.com/44899782/131233041-8085c609-5e4a-481c-ac49-d2db2ac7bb0f.png" height =40 width =40/> </a> 
- <a href="https://esmatarek.com" target="_blank"> <img alt="Blog" src="https://user-images.githubusercontent.com/44899782/131233115-405b8706-0f7b-43ab-8b5d-216861f336ba.png" width = 40 height = 40 /> </a>
+<!--  <a href="https://esmatarek.com" target="_blank"> <img alt="Blog" src="https://user-images.githubusercontent.com/44899782/131233115-405b8706-0f7b-43ab-8b5d-216861f336ba.png" width = 40 height = 40 /> </a> -->
 
 </p>
 
