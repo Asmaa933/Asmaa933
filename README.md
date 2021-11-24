@@ -29,7 +29,7 @@
 
 
 <h2>⚡GitHub Stats</h2>
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=asmaa933&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Asmaa's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=asmaa933&count_private=true&theme=cobalt" alt="Asmaa's github stats" />
 
 
 
