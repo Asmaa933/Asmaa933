@@ -29,7 +29,11 @@
 
 
 <h2>⚡GitHub Stats</h2>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=asmaa933&count_private=true&theme=cobalt" alt="Asmaa's github stats" />
+<p align = "center">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=asmaa933&count_private=true&theme=cobalt" alt="Asmaa's github stats" width =400 hspace = 20>
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asmaa933&hide_border=true&theme=onedark" alt="Asmaa's github stats" width =400/>
+ </p>
+
 
 
 
