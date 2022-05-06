@@ -2,10 +2,10 @@
 <p align="center">
 <img align="center" src="https://user-images.githubusercontent.com/44899782/130893164-204fa05f-83fd-4b34-9275-fe1507d7dfdd.gif" />
  </p>
-<h3 align="center">iOS Developer <img src='https://image.flaticon.com/icons/png/512/226/226769.png' alt='Apple' width="24"/> </h3>
+<h3 align="center">iOS Developer <a href="https://apps.apple.com/eg/developer/asmaa-tarek/id1523208215" target="_blank"> <img alt="Apple" src="https://cdn-icons-png.flaticon.com/512/179/179309.png" width = 24 /> </a> </h3>
 <p align="center">
 <!-- <a href="https://twitter.com/esma_tarek" target="_blank"><img alt="Twitter" src="https://image.flaticon.com/icons/png/512/145/145812.png" height =40 width =40/></a> -->
-<a href="https://www.linkedin.com/in/asmaa-tarek/" target="_blank"> <img alt="LinkedIn" src="https://image.flaticon.com/icons/png/512/145/145807.png" width = 40 height = 40 /> </a> 
+<a href="https://www.linkedin.com/in/asmaa-tarek/" target="_blank"> <img alt="LinkedIn" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1651797243~hmac=c6e1e20f35bf3f602636c74cd0e94d1b" width = 40 height = 40 /> </a> 
  <a href="https://stackoverflow.com/users/12349249/asmaa-tarek"> <img src="https://user-images.githubusercontent.com/44899782/131233041-8085c609-5e4a-481c-ac49-d2db2ac7bb0f.png" height =40 width =40/> </a> 
 <!--  <a href="https://esmatarek.com" target="_blank"> <img alt="Blog" src="https://user-images.githubusercontent.com/44899782/131233115-405b8706-0f7b-43ab-8b5d-216861f336ba.png" width = 40 height = 40 /> </a> -->
 
