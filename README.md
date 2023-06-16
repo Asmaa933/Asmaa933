@@ -1,4 +1,4 @@
-<h2 align="center">Hi<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> </h2>
+<h2 align="center">Hi 👋 </h2>
 <p align="center">
 <img align="center" src="https://user-images.githubusercontent.com/44899782/130893164-204fa05f-83fd-4b34-9275-fe1507d7dfdd.gif" />
  </p>
