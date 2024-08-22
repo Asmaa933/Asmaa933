@@ -4,8 +4,8 @@
  </p>
 <h3 align="center">iOS Developer <a href="https://apps.apple.com/eg/developer/asmaa-tarek/id1523208215" target="_blank"> <img alt="Apple" src="https://cdn-icons-png.flaticon.com/512/179/179309.png" width = 24 /> </a> </h3>
 <p align="center">
+ <a href="https://www.linkedin.com/in/asmaa-tarek/" target="_blank"> <img alt="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" width = 40 height = 40 /> </a> 
 <a href="https://esmatarek.hashnode.dev" target="_blank"><img alt="Hashnode" src="https://avatars.githubusercontent.com/u/16342708" height =40 width =40/></a>
-<a href="https://www.linkedin.com/in/asmaa-tarek/" target="_blank"> <img alt="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" width = 40 height = 40 /> </a> 
  <a href="https://stackoverflow.com/users/12349249/asmaa-tarek"> <img src="https://user-images.githubusercontent.com/44899782/131233041-8085c609-5e4a-481c-ac49-d2db2ac7bb0f.png" height =40 width =40/> </a> 
 
 </p>
